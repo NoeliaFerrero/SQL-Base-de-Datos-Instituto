@@ -2,7 +2,7 @@
 
 ## Introducción 
 
-Diseño y creación de una base de datos para almacenar información referente a los alumnos, profesores, asignaturas y cursos de un Instituto,
+Diseño y creación de una base de datos para almacenar información referente a los alumnos, profesores, asignaturas y cursos de un Instituto.
 
 Cada **curso** está formado a su vez por 3 clases de 29 alumnos cada una, por lo tanto cada curso se identifica de la siguiente forma 1A, 1B, 1C, 2A, 2B, 2C, 3A, 3B, 3C, 4A, 4B, 4C. Cada curso está formado por 3 trimestres donde se imparten las mismas asignatuas en cada uno de ellos, es decir, los alumnos tienen que tener una nota media global de los tres trimestres de un 5. Así mismo también nos interesa saber cuantas asignaturas en total tiene cada curso. 
 
