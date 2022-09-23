@@ -44,6 +44,6 @@ Las consultas que vamos a realizar serán:
 
 ✅ Queremos conocer cuáles son los 10 profesores con mayor nota media en las asignaturas que imparten.
 
-✅ Queremos conocer cuáles son los mejores alumnos de 3 de la ESO que han sacado un 10.
+✅ Queremos conocer cuáles son los 3 mejores alumnos del Instituto que han sacado un 10.
 
 
