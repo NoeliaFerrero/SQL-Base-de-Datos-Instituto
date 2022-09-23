@@ -18,15 +18,15 @@ Los **alumnos** pueden estar matriculados en varias asignaturas siempre que sean
 
 En primer lugar para saber como vamos a estructurar la base de datos y las tablas que vamos a necesitar haremos un diagrama con las entidades, sus atributos y las relaciones de cada una de ellas. 
 
-## 2. Diagrama de tablas ([BBDDDiagrama.png](https://github.com/noelianav91/Base-de-datos-SQL-Instituto/blob/c73147b5f983d3d53237ffba6cb8a3ad534d80c3/BBDDDiagrama.png))  
+## 2. Diagrama de tablas ([BBDDDiagrama.png](https://github.com/NoeliaFerrero/SQL-Base-de-Datos-Instituto/blob/main/BBDDDiagrama.png))  
 
 En segundo lugar definimos la estructura de las tablas en un modelo relacional.
 
-## 3. Creación de la base de datos, las tablas y la carga de datos. ([BBDDInstituto.sql](https://github.com/noelianav91/Base-de-datos-SQL-Instituto/blob/c73147b5f983d3d53237ffba6cb8a3ad534d80c3/BBDDInstituto.sql))
+## 3. Creación de la base de datos, las tablas y la carga de datos. ([BBDDInstituto.sql](https://github.com/NoeliaFerrero/SQL-Base-de-Datos-Instituto/blob/main/BBDDInstituto.sql))
 
 Mediante código SQL crearemos toda la estructura que hemos diseñado en los anteriores puntos. La carga de los datos la haremos de forma manual con las tablas de Profesor, Curso e Impartir y mediante la carga de ficheros cargaremos las tablas Alumnos, Contacto Alumnos, Contacto Profesores, Matricula y Asignatura.
 
-## 4. Consultas ([BBDDConsultas.sql](https://github.com/noelianav91/Base-de-datos-SQL-Instituto/blob/c73147b5f983d3d53237ffba6cb8a3ad534d80c3/BBDDConsultas.sql))
+## 4. Consultas ([BBDDConsultas.sql](https://github.com/NoeliaFerrero/SQL-Base-de-Datos-Instituto/blob/main/BBDDConsultas.sql))
 
 Las consultas que vamos a realizar serán:
 
